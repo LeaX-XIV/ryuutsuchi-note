@@ -1,7 +1,7 @@
 ---
 tags:
-  - world
-  - geography
+  - location
+  - lore
 aliases:
   - 竜土
   - Ryūtsuchi

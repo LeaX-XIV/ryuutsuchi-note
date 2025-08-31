@@ -1,7 +1,6 @@
 ---
 tags:
-  - world
-  - politics
+  - location
 ---
 Regione più a ovest dello Honshu, governata dal clan [[Mori]]. La capitale è [[Murasame]].
 La popolazione conta maggiormente [[Umani]].

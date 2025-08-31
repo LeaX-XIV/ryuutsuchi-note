@@ -1,7 +1,6 @@
 ---
 tags:
-  - world
-  - politics
+  - location
 ---
 Città capitale del [[Chuugoku]].
 ## Palazzo del Daimyo

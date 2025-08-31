@@ -1,7 +1,6 @@
 ---
 tags:
-  - world
-  - geography
+  - location
 aliases:
   - 鳥居
 ---
