@@ -12,7 +12,7 @@ aliases:
 
 | Giocatore  | Razza | Classe      |
 | ---------- | ----- | ----------- |
-| Alessandro | Umano | Guerriero 1 |
+| Alessandro | Umano | Guerriero 2 |
 
 Uno degli eroi delle Armi Divine. Portatore di [[#Ouyumi]]. L'unico eroe ad essere evocato come [[Umani|Umano]].
 ![[./images/izumi.png]]
