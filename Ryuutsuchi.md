@@ -56,7 +56,7 @@ Il sistema di governo affida il potere nel capo del clan, il Daimyou, e nella su
 Nello Shikoku sono presenti [[Oni]] e [[Goblin]], spesso in guerra con i popoli di Honshu e Kyushu.
 
 ## Cultura
-Si parlano principalmente tre lingue, che corrispondono vagamente al giapponese del mondo reale:
+Si parlano principalmente due lingue, che corrispondono vagamente al giapponese del mondo reale:
 - Comune antico
 - Comune moderno
-- Comune alternativo
+Ognuno parla anche la lingua comune alla propria razza; possono essere ceppi distinti, o dialetti di una lingua più comune.
