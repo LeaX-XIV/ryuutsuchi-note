@@ -4,6 +4,7 @@ nav:
     - Sessione 1: Sessioni/2025-08-12.md
     - Sessione 2: Sessioni/2025-08-30.md
     - Sessione 3: Sessioni/2025-09-20.md
+    - Sessione 4: Sessioni/2025-10-11.md
   - Personaggi:
     - Alessandro: Izumi.md
     - Giacomo: Mizuhara.md
@@ -18,7 +19,11 @@ nav:
     - Clan Mori: Mori.md
   - Lore:
     - Armi Divine: Armi Divine.md
-    - Wyvern: Wyvern.md
+    - Wyvern:
+      - Wyvern: Wyvern.md
+      - Jyuratodus: Jyuratodus.md
+  - Oggetti:
+    - Mappa: Mappa.md
 # theme: torillic
 docs_dir: Note
 plugins:

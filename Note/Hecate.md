@@ -7,7 +7,7 @@ aliases:
 
 | Giocatore | Razza  | Classe    |
 | --------- | ------ | --------- |
-| Veronica  | Tabaxi | Warlock 1 |
+| Veronica  | Tabaxi | Warlock 2 |
 
 Uno degli eroi delle Armi Divine. Portatore di Wakizashi. Evocata come [[Tabaxi]].
 

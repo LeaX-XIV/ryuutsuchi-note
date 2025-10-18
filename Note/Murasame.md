@@ -11,6 +11,7 @@ Sembra che la maggior parte delle persone natie e residenti della città preferi
 
 Si trova al centro della città, circondato da un fossato d'acqua.
 ### Daimyo
+
 Capo del Clan [[Mori]], governante del [[Chuugoku]].
 
 ### Moglie del Daimyo
@@ -18,6 +19,8 @@ Capo del Clan [[Mori]], governante del [[Chuugoku]].
 Nella società matriarcale, la moglie del Daimyo mantiene parte del potere del marito.
 
 ### Funzionario della difesa
+
+Alto un cazzo e un barattolo.
 
 ### Funzionario della contabilità
 
