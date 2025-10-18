@@ -2,7 +2,9 @@
 tags:
   - lore
 ---
-Potenti armi con cui gli Eroi sono evocati. Possono prendere diverse forme, tra cui un Ouyumi, un Outsuchi, e una Wakizashi.
+# Armi Divine
+
+Potenti armi con cui gli Eroi sono evocati. Possono prendere diverse forme, tra cui un [Ouyumi](/Izumi#ouyumi), un [Outsuchi](/Mizuhara#outsuchi), e una [Wakizashi](/Hecate#wakizashi).
 
 Ogni arma è assegnata al proprio Eroe, il quale non può separarsene. Se viene appoggiata a terra, ceduta ad altri, disarmata, o in altro modo rimossa dalla persona dell'Eroe, questa riappare istantaneamente, in posizione di riposo (rinfoderata nella cintura, legata alla spalla, ecc.). Sembra che anche volendo, gli Eroi non possano disfarsi di queste armi.
 

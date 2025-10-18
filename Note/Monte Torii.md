@@ -4,10 +4,14 @@ tags:
 aliases:
   - 鳥居
 ---
+# Monte Torii
+
 Grande monte che torreggia al centro del Honshu, nella regione del [[Kanto]].
 
 ## Tempio
+
 ![Tempo del Monte Torii](images/tempio.jpeg)
+
 Alle sue pendici sud, si trova un tempio, conteso dalle regione del [[Kanto]] e [[Chuugoku]].
 All'interno del tempio, il clan [[Mori]] ha effettuato il rituale di evocazione degli Eroi delle [[Armi Divine]].
 ### Funzionario del tempio

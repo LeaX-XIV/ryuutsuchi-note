@@ -1,0 +1,27 @@
+site_name: Ryūtsuchi
+nav:
+  - Sessioni:
+    - Sessione 1: Sessioni/2025-08-12.md
+    - Sessione 2: Sessioni/2025-08-30.md
+    - Sessione 3: Sessioni/2025-09-20.md
+  - Personaggi:
+    - Alessandro: Izumi.md
+    - Giacomo: Mizuhara.md
+    - Veronica: Hecate.md
+  - Luoghi:
+    - Chuugoku:
+      - Chuugoku: Chuugoku.md
+      - Murasame: Murasame.md
+      - Residenza: Residenza.md
+    - Monte Torii: Monte Torii.md
+  - NPC:
+    - Clan Mori: Mori.md
+  - Lore:
+    - Armi Divine: Armi Divine.md
+    - Wyvern: Wyvern.md
+# theme: torillic
+docs_dir: Note
+plugins:
+  - search
+markdown_extensions:
+  - wikilinks
