@@ -11,6 +11,8 @@ Edificio in stile giapponese, costruito su due piani. È presente un laghetto ne
 
 La struttura si presenta all'esterno come abbandonata da almeno 30 anni - come anche riferito dai funzionari di Murasame, ma lo stato della mobilia e delle stanze rivelano che è rimasta utilizzata fino a pochi mesi/anni prima l'arrivo degli Eroi.
 
+La residenza è stata ripulita da Mizuhara, e si trova ora in uno stato abitabile.
+
 ## Mistero
 
 L'interno della residenza pare separato dall'esterno: una barriera, che distorce leggermente la luce e appanna la vista, separa l'esterno dall'interno all'altezza della veranda. I suoni rimangono confinati nel loro spazio di origine, per cui non è possibile udire qualcuno urlare dentro se si è fuori.  

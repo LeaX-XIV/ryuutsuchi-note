@@ -11,6 +11,8 @@ aliases:
 | --------- | ----- | ---------- |
 | Giacomo   | Oni   | Artefice 2 |
 
+![Mizuhara](images/mizuhara.png)
+
 Uno degli eroi delle Armi Divine. Portatore di [[#Outsuchi]]. Evocato come [[Oni]].
 ## Outsuchi
 

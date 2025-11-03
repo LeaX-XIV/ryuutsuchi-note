@@ -1,8 +1,7 @@
 ---
 tags:
-  - item
+  - loot
 ---
-
 # Mappa
 
 Pergamena raffigurante una mappa magica rinvenuta all'interno della [[Residenza]].

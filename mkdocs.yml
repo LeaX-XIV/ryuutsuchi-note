@@ -5,13 +5,14 @@ nav:
     - Sessione 2: Sessioni/2025-08-30.md
     - Sessione 3: Sessioni/2025-09-20.md
     - Sessione 4: Sessioni/2025-10-11.md
+    - Sessione 5: Sessioni/2025-10-25.md
   - Personaggi:
     - Alessandro: Izumi.md
     - Giacomo: Mizuhara.md
     - Veronica: Hecate.md
   - Luoghi:
-    - Chuugoku:
-      - Chuugoku: Chuugoku.md
+    - Shinkai no Kuni:
+      - Shinkai no Kuni: Shinkai no Kuni.md
       - Murasame: Murasame.md
       - Residenza: Residenza.md
     - Monte Torii: Monte Torii.md
@@ -24,6 +25,8 @@ nav:
       - Jyuratodus: Jyuratodus.md
   - Oggetti:
     - Mappa: Mappa.md
+  - Quest:
+    - Coboldi Balordi: Quest/Coboldi Balordi.md
 # theme: torillic
 docs_dir: Note
 plugins:

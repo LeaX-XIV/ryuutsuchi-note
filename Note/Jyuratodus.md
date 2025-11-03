@@ -4,7 +4,7 @@ tags:
 ---
 # Jyuratodus
 
-[[Wyvern]] anfibio che predilige tane in prossimità di baie e golfi.
+[[Wyvern]] anfibio che predilige tane in prossimità di baie e golfi. Normalmente avvistato nelle coste paludose di [[Sabakuro]].
 
 Ha una velocità di 18m.
 

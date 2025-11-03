@@ -4,7 +4,7 @@ tags:
 ---
 # Murasame
 
-Città capitale del [[Chuugoku]], situata nella parte nord-orientale della regione. Si erge in un punto strategico, costretta tra una foresta a ovest del [[Monte Torii]], e una formazione rocciosa. A nord è bagnata dal mare. L'unica via d'accesso si trova a sud della città.  
+Città capitale di [[Shinkai no Kuni]], situata nella parte nord-orientale della regione. Si erge in un punto strategico, costretta tra una foresta a ovest del [[Monte Torii]], e una formazione rocciosa. A nord è bagnata dal mare. L'unica via d'accesso si trova a sud della città.  
 Sembra che la maggior parte delle persone natie e residenti della città preferiscano esprimersi con gesti, senza proferir parola. La città risulta quindi molto tranquilla.
 
 ## Palazzo del Daimyo
@@ -12,7 +12,7 @@ Sembra che la maggior parte delle persone natie e residenti della città preferi
 Si trova al centro della città, circondato da un fossato d'acqua.
 ### Daimyo
 
-Capo del Clan [[Mori]], governante del [[Chuugoku]].
+Capo del Clan [[Mori]], governante di [[Shinkai no Kuni]].
 
 ### Moglie del Daimyo
 
@@ -49,10 +49,17 @@ Venditore ambulante. I takoyaki sono considerati cibo esotico.
 
 Possiede una bottega con insegna che si muove. L'insegna raffigura un bastone, e un serpente che gli si attorciglia attorno. Il negozio risulta chiuso.
 
+### Orefice
+
+Vecchietto proprietario di un negozio di oreficeria. Acquista e vende gioielli. Ha truffato gli Eroi comprando a prezzo molto basso, ma loro non destano sospetti.
+
 ## Quartiere dei piaceri
 
 Quartiere che affaccia sul mare a nord, ospita ristorazione di lusso, e cortigiane da compagnia.
 
+### Taverna
+
+Si trova una taverna con una grande insegna a forma di boccale di birra. Hanno una vasta scelta di tè.
 ## Quartiere residenziale
 
 Nella zona ovest della città. Ospita la popolazione più abbiente e nobile.
