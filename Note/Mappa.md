@@ -4,7 +4,7 @@ tags:
 ---
 # Mappa
 
-Pergamena raffigurante una mappa magica rinvenuta all'interno della [[Residenza]].
+Pergamena raffigurante una mappa magica rinvenuta all'interno della [[Residenza]]. La pergamena è protetta all'esterno da una custodia flessibile in cuoio.
 
 ## Utilizzi
 
