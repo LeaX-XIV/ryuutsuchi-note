@@ -13,7 +13,7 @@ aliases:
 
 | Giocatore  | Razza | Classe      |
 | ---------- | ----- | ----------- |
-| Alessandro | Umano | Guerriero 2 |
+| Alessandro | Umano | Guerriero 3 |
 
 ![Izumi](images/izumi.png)
 

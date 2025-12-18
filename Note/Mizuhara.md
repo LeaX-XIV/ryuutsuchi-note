@@ -9,7 +9,7 @@ aliases:
 
 | Giocatore | Razza | Classe     |
 | --------- | ----- | ---------- |
-| Giacomo   | Oni   | Artefice 2 |
+| Giacomo   | Oni   | Artefice 3 |
 
 ![Mizuhara](images/mizuhara.png)
 

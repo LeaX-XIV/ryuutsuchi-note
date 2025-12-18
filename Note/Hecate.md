@@ -7,7 +7,7 @@ aliases:
 
 | Giocatore | Razza  | Classe    |
 | --------- | ------ | --------- |
-| Veronica  | Tabaxi | Warlock 2 |
+| Veronica  | Tabaxi | Warlock 3 |
 
 ![Hecate](images/hecate.png)
 
