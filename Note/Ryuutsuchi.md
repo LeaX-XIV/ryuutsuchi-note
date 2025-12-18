@@ -56,8 +56,6 @@ Diviso in 3 regioni principali, da nord a sud:
 Moriya è abitata principalmente da [[Elfi Silvani]]. È presente un grande vulcano al centro dell'isola.  
 Nello Shinkai e nello Tsukigamine abitano principalmente [[Umani]] e [[Halfling]]. Gli Halfling sono un popolo nomade. Più di recente sono state annesse le tribù di [[Oni]] e [[Goblin]] delle isole a sud, contro le quali in passato si erano svolti diversi scontri.
 
-Il sistema di governo affida il potere nel capo del clan, il Daimyo, e nella sua famiglia, includendo moglie ed eventuali figli.
-
 ## Cultura
 
 Si parlano principalmente due lingue, che corrispondono vagamente al giapponese del mondo reale:

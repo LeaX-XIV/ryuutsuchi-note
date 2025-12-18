@@ -2,7 +2,11 @@
 tags:
   - monster
 ---
-Grande [[Wyvern]] rettile somigliante ad un'iguana. Di colore verde, cammina su due lunghe zampe, e ha una lunga criniera.
+# Gran Jagras
+
+![Gran Jagras](images/gran-jagras.webp)
+
+Grande [[Wyvern]] rettile somigliante ad un'iguana. Di colore verde, cammina su quattro lunghe zampe, e ha una lunga criniera. Presenta una grande sacca elastica sotto la gola, dove avviene la digestione di tutto ciò che ingoia. Quando si sente in pericolo e in grado di rigettare il suo ultimo pasto, semi digerito, come un potente attacco ad area.
 
 Un esemplare si trovava nella [[Shinkai no Kuni#Foresta|Foresta]], poi ucciso dagli Eroi.
 
