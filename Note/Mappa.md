@@ -6,6 +6,25 @@ tags:
 
 Pergamena raffigurante una mappa magica rinvenuta all'interno della [[Residenza]]. La pergamena è protetta all'esterno da una custodia flessibile in cuoio.
 
+<div style="position: relative">
+<style>
+.point {
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px 10px;
+  background: currentColor;
+}
+</style>
+<img src="/images/ryuutsuchi_map.jpeg" />
+<div id="marker-home" class="point" style="color: magenta; top: 56.5%; left: 40.1%;"></div>
+<div id="marker-dragon-1" class="point" style="color: darkblue; top: 62.5%; left: 35.5%;"></div>
+<div id="marker-dragon-2" class="point" style="color: black; top: 38%; left: 13%;"></div>
+<div id="marker-dragon-3" class="point" style="color: firebrick; top: 19%; left: 20%;"></div>
+<div id="marker-dragon-4" class="point" style="color: gold; top: 49%; left: 58.5%;"></div>
+<div id="marker-dragon-5" class="point" style="color: forestgreen; top: 13%; left: 88%;"></div>
+<div id="marker-dragon-6" class="point" style="color: cornflowerblue; top: 80%; left: 90%;"></div>
+<div id="marker-teleport-forest" class="point" style="color: magenta; top: 60%; left: 33%;"></div>
+</div>
 ## Utilizzi
 
 La mappa è magicamente collegata al mappamondo che ha sede nella biblioteca della residenza. Entrambi gli oggetti mostrano la stessa area del mondo. Parte della cartina è oscurata, e risulta visibile solo l'isola principale, la regione vulcanica e la regione artica di Ryuutsuchi.

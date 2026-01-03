@@ -61,7 +61,7 @@ Arcipelago centrale del continente, di forma simile al Giappone, ma più grande 
 Diviso in 3 regioni principali, da nord a sud:
 
 - [[Moriya]], del clan #missing 
-- [[Tsukigamine]], del clan #missing 
+- [[Tsukigamine]], del clan [[Agamine]] 
 - [[Shinkai no Kuni]], del clan [[Mori]]
 
 Moriya è abitata principalmente da [[Elfi Silvani]]. È presente un grande vulcano al centro dell'isola.  

@@ -22,13 +22,17 @@ Nella società matriarcale, la moglie del Daimyo mantiene parte del potere del m
 
 Alto un cazzo e un barattolo.
 
-### Funzionario della contabilità
+### Funzionario della contabilità, Tsukiyama
 
-Non parla.
+Non parla. Preferisce non parlare, perché conosce fin troppi segreti legati al lavoro che fa.
 
 ### Funzionario del catasto
 
 Conduce gli eroi alla [[Residenza]].
+
+### Miko Kitsune
+
+Nuova concubina del Daimyo. Ha una grande influenza sulle decisioni.
 ## Caserma dei samurai
 
 Zona a sud della città, vicino alla porta principale. Qui i samurai si alloggiano e si allenano.
@@ -57,9 +61,23 @@ Vecchietto proprietario di un negozio di oreficeria. Acquista e vende gioielli. 
 
 Quartiere che affaccia sul mare a nord, ospita ristorazione di lusso, e cortigiane da compagnia.
 
-### Taverna
+### Locanda
 
-Si trova una taverna con una grande insegna a forma di boccale di birra. Hanno una vasta scelta di tè.
+Si trova una locanda con una grande insegna a forma di boccale di birra. Hanno una vasta scelta di tè.
+
+### Taverna La Volpe Rossa
+
+#### Boris
+
+Padrone della taverna La Volpe Rossa.
+
+#### Kitsune bianca
+
+Locandiera misteriosa.
+
+#### Kitsune paglierina
+
+Cameriera. Schiava.
 ## Quartiere residenziale
 
 Nella zona ovest della città. Ospita la popolazione più abbiente e nobile.
