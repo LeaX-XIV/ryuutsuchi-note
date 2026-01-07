@@ -1,15 +1,15 @@
 site_name: Ryūtsuchi
 nav:
   - Sessioni:
-    - Sessione 1: Sessioni/2025-08-12.md
-    - Sessione 2: Sessioni/2025-08-30.md
-    - Sessione 3: Sessioni/2025-09-20.md
-    - Sessione 4: Sessioni/2025-10-11.md
-    - Sessione 5: Sessioni/2025-10-25.md
-    - Sessione 6: Sessioni/2025-11-15.md
-    - Sessione 7: Sessioni/2025-11-29.md
-    - Sessione 8: Sessioni/2025-12-13.md
-    - Sessione 9: Sessioni/2025-12-27.md
+    - Sessione 1: Sessioni/001.md
+    - Sessione 2: Sessioni/002.md
+    - Sessione 3: Sessioni/003.md
+    - Sessione 4: Sessioni/004.md
+    - Sessione 5: Sessioni/005.md
+    - Sessione 6: Sessioni/006.md
+    - Sessione 7: Sessioni/007.md
+    - Sessione 8: Sessioni/008.md
+    - Sessione 9: Sessioni/009.md
   - Personaggi:
     - Alessandro: Izumi.md
     - Giacomo: Mizuhara.md
