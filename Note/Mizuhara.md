@@ -3,7 +3,7 @@ tags:
   - character
 aliases:
   - Mizuhara Riro
-  - 水柄リーロ
+  - 水原リーロ
 ---
 # Mizuhara
 

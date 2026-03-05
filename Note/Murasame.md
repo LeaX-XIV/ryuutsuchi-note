@@ -26,13 +26,18 @@ Alto un cazzo e un barattolo.
 
 Non parla. Preferisce non parlare, perché conosce fin troppi segreti legati al lavoro che fa.
 
-### Funzionario del catasto
+### Funzionario del catasto, Masa
 
 Conduce gli eroi alla [[Residenza]].
 
+### Funzionario arcano, Ryōsuke
+
+Parte del gruppo che conduce l'ispezione alla [[Residenza]].
+
 ### Miko Kitsune
 
-Nuova concubina del Daimyo. Ha una grande influenza sulle decisioni.
+Nuova concubina del Daimyo. Ha una grande influenza sulle decisioni. Probabilmente il drago divino di Moriya.
+
 ## Caserma dei samurai
 
 Zona a sud della città, vicino alla porta principale. Qui i samurai si alloggiano e si allenano.
@@ -49,9 +54,9 @@ Gestisce il negozio di sartoria. Non parla, ed è una maestra nel suo lavoro. Se
 
 Venditore ambulante. I takoyaki sono considerati cibo esotico.
 
-### Alchimista #fixme 
+### Ronan
 
-Possiede una bottega con insegna che si muove. L'insegna raffigura un bastone, e un serpente che gli si attorciglia attorno. Il negozio risulta chiuso.
+Uomo di mezz'età. Possiede un negozio di alchimia con insegna che si muove. L'insegna raffigura un bastone, e un serpente che gli si attorciglia attorno. Il negozio è chiuso in seguito alla perdita di tutti i clienti per via dell'"ispezione". Cerca fortuna a Tsukigamine.
 
 ### Orefice
 
