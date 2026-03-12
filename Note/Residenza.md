@@ -4,7 +4,7 @@ tags:
 ---
 # Residenza
 
-Assegnata agli Eroi come base operativa nella città di [[Murasame]], nonostante lo stato di abbandono.
+Assegnata agli Eroi come base operativa nella città di [Murasame](Murasame.md), nonostante lo stato di abbandono.
 
 Vecchio ryokan in disuso, fuori dalle mura naturali a ovest di Murasame, che negli anni di abbandono è stata depredata da mostri.  
 Edificio in stile giapponese, costruito su due piani. È presente un laghetto nella parte nord-ovest del giardino.
@@ -23,7 +23,7 @@ Oggetti che si estendono attraverso la barriera, ad esempio una corda che da den
 
 ### Mappamondo
 
-Un mappamondo magico, che riflette la sua parte centrale sulla [[Mappa]]. Sulla sua superficie sono segnalati, con punti luminosi, le posizioni delle [[Wyvern]].
+Un mappamondo magico, che riflette la sua parte centrale sulla [Mappa](Mappa.md). Sulla sua superficie sono segnalati, con punti luminosi, le posizioni delle [Wyvern](Wyvern.md).
 
 ### Libreria dei documenti
 
@@ -35,7 +35,7 @@ Contiene gialli, saggi, storie folkloristiche, ecc.
 
 ### Libreria dei mostri
 
-Contiene libri in cuoio rovinati. Solo quelli dei mostri "normali" sono compilati. Gli altri, che dovrebbero contenere informazioni sulle [[Wyvern]], sono vuoti a meno che non sono stati avvistati.
+Contiene libri in cuoio rovinati. Solo quelli dei mostri "normali" sono compilati. Gli altri, che dovrebbero contenere informazioni sulle [Wyvern](Wyvern.md), sono vuoti a meno che non sono stati avvistati.
 
 ### Libreria geografica
 

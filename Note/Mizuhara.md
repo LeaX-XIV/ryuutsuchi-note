@@ -13,7 +13,8 @@ aliases:
 
 ![Mizuhara](images/mizuhara.png)
 
-Uno degli eroi delle Armi Divine. Portatore di [[#Outsuchi]]. Evocato come [[Oni]].
+Uno degli eroi delle Armi Divine. Portatore di [Outsuchi](#outsuchi). Evocato come [Oni](Oni.md).
+
 ## Outsuchi
 
 Grosso martello in legno. Nella parte centrale della testa c'è una sfera di vetro, che tramite l'incantesimo Assorbire Elemento si carica, per poi sprigionare il danno elementale.

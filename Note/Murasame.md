@@ -4,15 +4,16 @@ tags:
 ---
 # Murasame
 
-Città capitale di [[Shinkai no Kuni]], situata nella parte nord-orientale della regione. Si erge in un punto strategico, costretta tra una foresta a ovest del [[Monte Torii]], e una formazione rocciosa. A nord è bagnata dal mare. L'unica via d'accesso si trova a sud della città.  
+Città capitale di [Shinkai no Kuni](Shinkai%20no%20Kuni.md), situata nella parte nord-orientale della regione. Si erge in un punto strategico, costretta tra una foresta a ovest del [Monte Torii](Monte%20Torii.md), e una formazione rocciosa. A nord è bagnata dal mare. L'unica via d'accesso si trova a sud della città.  
 Sembra che la maggior parte delle persone natie e residenti della città preferiscano esprimersi con gesti, senza proferir parola. La città risulta quindi molto tranquilla.
 
 ## Palazzo del Daimyo
 
 Si trova al centro della città, circondato da un fossato d'acqua.
+
 ### Daimyo
 
-Capo del Clan [[Mori]], governante di [[Shinkai no Kuni]].
+Capo del Clan [Mori](Mori.md), governante di [Shinkai no Kuni](Shinkai%20no%20Kuni.md).
 
 ### Moglie del Daimyo
 
@@ -28,11 +29,11 @@ Non parla. Preferisce non parlare, perché conosce fin troppi segreti legati al 
 
 ### Funzionario del catasto, Masa
 
-Conduce gli eroi alla [[Residenza]].
+Conduce gli eroi alla [Residenza](Residenza.md).
 
 ### Funzionario arcano, Ryōsuke
 
-Parte del gruppo che conduce l'ispezione alla [[Residenza]].
+Parte del gruppo che conduce l'ispezione alla [Residenza](Residenza.md).
 
 ### Miko Kitsune
 

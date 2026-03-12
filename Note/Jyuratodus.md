@@ -6,9 +6,9 @@ tags:
 
 ![Jyuratodus](images/jyuratodus.webp)
 
-[[Wyvern]] anfibio che predilige tane in prossimità di baie e golfi. Normalmente avvistato nelle coste paludose di [[Sabakuro]].
+[Wyvern](Wyvern.md) anfibio che predilige tane in prossimità di baie e golfi. Normalmente avvistato nelle coste paludose di [Sabakuro](Sabakuro.md).
 
-Un esemplare si risveglia nei pressi della Residenza. Sembra che tempo addietro abbia attaccato [[Murasame]].
+Un esemplare si risveglia nei pressi della Residenza. Sembra che tempo addietro abbia attaccato [Murasame](Murasame.md).
 
 ## Informazioni di gioco
 

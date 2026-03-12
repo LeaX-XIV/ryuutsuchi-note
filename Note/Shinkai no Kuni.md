@@ -8,12 +8,12 @@ aliases:
 ---
 # Shinkai no Kuni
 
-La regione più a ovest dell'arcipelago centrale, governata dal clan [[Mori]]. La capitale è [[Murasame]].
-La popolazione conta maggiormente [[Umani]].
+La regione più a ovest dell'arcipelago centrale, governata dal clan [Mori](Mori.md). La capitale è [Murasame](Murasame.md).
+La popolazione conta maggiormente [Umani](Umani.md).
 
 Il sistema di governo affida il potere nel capo del clan, il Daimyo, e nella sua famiglia, includendo moglie ed eventuali figli.
 
-Inizialmente con il nome di Chuugoku, era in lotta con le tribù di [[Oni]] e [[Goblin]] delle isole a sud. Trovano un accordo che unisce le loro terre in un'unica regione, dove i rappresentati di entrambe le popolazioni fanno parte del consiglio.
+Inizialmente con il nome di Chuugoku, era in lotta con le tribù di [Oni](Oni.md) e [Goblin](Goblin.md) delle isole a sud. Trovano un accordo che unisce le loro terre in un'unica regione, dove i rappresentati di entrambe le popolazioni fanno parte del consiglio.
 
 ## Foresta
 
@@ -21,7 +21,7 @@ Fitta foresta nella parte sud ovest dell'isola principale.
 
 ### Piattaforma con cristalli
 
-Luogo misterioso, ricco di magia. Un monumento in pietra appartenente ad una civiltà sconosciuta si trova al centro di una leggera vegetazione di fuori blu e viola, che appassiscono immediatamente rimossi dal terreno. A base circolare, piena di rune magiche, con 3 scalini, e 6 colonne disposte equidistanti l'una dall'altra. Sei grandi cristalli viola sono disposti intorno al monumento, ognuno sull'asse delle colonne; sono la causa della grande concentrazione di energia magica nel luogo. I cristalli reagiscono con una scarica elettrica se attaccati con la forza, ma altrimenti sembrano innocui. Utilizzato come cerchio magico di teletrasporto attraverso la [[Mappa]].
+Luogo misterioso, ricco di magia. Un monumento in pietra appartenente ad una civiltà sconosciuta si trova al centro di una leggera vegetazione di fuori blu e viola, che appassiscono immediatamente rimossi dal terreno. A base circolare, piena di rune magiche, con 3 scalini, e 6 colonne disposte equidistanti l'una dall'altra. Sei grandi cristalli viola sono disposti intorno al monumento, ognuno sull'asse delle colonne; sono la causa della grande concentrazione di energia magica nel luogo. I cristalli reagiscono con una scarica elettrica se attaccati con la forza, ma altrimenti sembrano innocui. Utilizzato come cerchio magico di teletrasporto attraverso la [Mappa](Mappa.md).
 
 ### Radura di funghi e cristalli
 
@@ -33,4 +33,4 @@ Grande lago che si trova nei meandri della foresta. Le sponde sono circondati da
 
 ### Tana del Gran Jagras
 
-Ampia radura che il [[Gran Jagras]] ha scelto come tana.
+Ampia radura che il [Gran Jagras](Gran%20Jagras.md) ha scelto come tana.

@@ -1,4 +1,7 @@
 site_name: Ryūtsuchi
+site_url: https://leax.xiv.github.io/ryuutsuchi-note/
+repo_url: https://github.com/leax-xiv/ryuutsuchi-note/
+use_directory_urls: false
 nav:
   - Sessioni:
     - Sessione 1: Sessioni/001.md
@@ -35,6 +38,8 @@ nav:
     - Mappa: Mappa.md
   - Quest:
     - Coboldi Balordi: Quest/Coboldi Balordi.md
+not_in_nav: |
+  /Ryuutsuchi.md
 # theme: torillic
 docs_dir: Note
 plugins:

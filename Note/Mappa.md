@@ -4,7 +4,7 @@ tags:
 ---
 # Mappa
 
-Pergamena raffigurante una mappa magica rinvenuta all'interno della [[Residenza]]. La pergamena è protetta all'esterno da una custodia flessibile in cuoio.
+Pergamena raffigurante una mappa magica rinvenuta all'interno della [Residenza](Residenza.md). La pergamena è protetta all'esterno da una custodia flessibile in cuoio.
 
 <div style="position: relative">
 <style>
@@ -15,8 +15,9 @@ Pergamena raffigurante una mappa magica rinvenuta all'interno della [[Residenza]
   background: currentColor;
 }
 </style>
-<img src="/images/ryuutsuchi_map.jpeg" />
-<div id="marker-home" class="point" style="color: magenta; top: 56.5%; left: 40.1%;"></div>
+
+<img src="images/ryuutsuchi_map.jpeg" />
+<div id="marker-home" class="point" style="color: magenta; top: 56.5%; left: 43.1%;"></div>
 <div id="marker-dragon-1" class="point" style="color: darkblue; top: 62.5%; left: 35.5%;"></div>
 <div id="marker-dragon-2" class="point" style="color: black; top: 38%; left: 13%;"></div>
 <div id="marker-dragon-3" class="point" style="color: firebrick; top: 19%; left: 20%;"></div>
@@ -25,6 +26,7 @@ Pergamena raffigurante una mappa magica rinvenuta all'interno della [[Residenza]
 <div id="marker-dragon-6" class="point" style="color: cornflowerblue; top: 80%; left: 90%;"></div>
 <div id="marker-teleport-forest" class="point" style="color: magenta; top: 60%; left: 33%;"></div>
 </div>
+
 ## Utilizzi
 
 La mappa è magicamente collegata al mappamondo che ha sede nella biblioteca della residenza. Entrambi gli oggetti mostrano la stessa area del mondo. Parte della cartina è oscurata, e risulta visibile solo l'isola principale, la regione vulcanica e la regione artica di Ryuutsuchi.
@@ -37,7 +39,7 @@ Trascinando due dita l'una verso l'altra la vista verrà rimpicciolita. Trascina
 
 Nell'angolo in alto a destra della pergamena c'è un'icona raffigurante quattro frecce a croce che puntano verso l'interno. Premendoci sopra con un dito, la vista si resetta sul segnalino della mappa.
 
-Quando la presenza di una [[Wyvern]] è nota, la sua posizione è appare come un punto luminoso. Quando il Wyvern viene sconfitto, il punto luminoso sparisce.
+Quando la presenza di una [Wyvern](Wyvern.md) è nota, la sua posizione è appare come un punto luminoso. Quando il Wyvern viene sconfitto, il punto luminoso sparisce.
 
 Cliccando il punto luminoso viene visualizzato il nome della Wyvern a cui si fa riferimento.
 

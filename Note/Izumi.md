@@ -17,7 +17,7 @@ aliases:
 
 ![Izumi](images/izumi.png)
 
-Uno degli eroi delle Armi Divine. Portatore di [Ouyumi](#ouyumi). L'unico eroe ad essere evocato come [[Umani|Umano]].
+Uno degli eroi delle Armi Divine. Portatore di [Ouyumi](#ouyumi). L'unico eroe ad essere evocato come [Umano](Umani.md).
 
 Il suo vero nome è 〇〇〇〇, ma decide di usare Kentarou Izumi per ambientarsi meglio in Ryuutsuchi. Commette però un errore di scrittura, di cui non si accorge, mentre lo registra nella propria scheda (健犬郎 invece di 健太郎). Rimane comunque evidentemente di origine occidentale, nonostante il nome scelto.
 
