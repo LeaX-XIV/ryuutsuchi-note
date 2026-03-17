@@ -1,6 +1,7 @@
 site_name: Ryūtsuchi
 site_url: https://leax.xiv.github.io/ryuutsuchi-note/
 repo_url: https://github.com/leax-xiv/ryuutsuchi-note/
+site_dir: ryuutsuchi-note
 use_directory_urls: false
 nav:
   - Sessioni:
@@ -14,6 +15,7 @@ nav:
     - Sessione 8: Sessioni/008.md
     - Sessione 9: Sessioni/009.md
     - Sessione 10: Sessioni/010.md
+    - Sessione 11: Sessioni/011.md
   - Personaggi:
     - Alessandro: Izumi.md
     - Giacomo: Mizuhara.md
@@ -38,6 +40,12 @@ nav:
     - Mappa: Mappa.md
   - Quest:
     - Coboldi Balordi: Quest/Coboldi Balordi.md
+exclude_docs: |
+  images/*
+  !images/*.png
+  !images/*.jpg
+  !images/*.jpeg
+  !images/*.webp
 not_in_nav: |
   /Ryuutsuchi.md
 # theme: torillic

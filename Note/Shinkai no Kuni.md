@@ -8,6 +8,8 @@ aliases:
 ---
 # Shinkai no Kuni
 
+![Mappa dello Shinkai no Kuni](images/shinkai_no_kuni.png)
+
 La regione più a ovest dell'arcipelago centrale, governata dal clan [Mori](Mori.md). La capitale è [Murasame](Murasame.md).
 La popolazione conta maggiormente [Umani](Umani.md).
 
@@ -17,7 +19,7 @@ Inizialmente con il nome di Chuugoku, era in lotta con le tribù di [Oni](Oni.md
 
 ## Foresta
 
-Fitta foresta nella parte sud ovest dell'isola principale.
+Fitta foresta a ovest del lago Ryuji.
 
 ### Piattaforma con cristalli
 
