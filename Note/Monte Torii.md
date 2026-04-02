@@ -16,6 +16,10 @@ Sulla cima risiedono diversi eremiti e sacerdoti con potenti abilità.
 Alle sue pendici sud, si trova un tempio, conteso dalle regione dello [Tsukigamine](Tsukigamine.md) e [Shinkai no Kuni](Shinkai%20no%20Kuni.md).
 All'interno del tempio, il clan [Mori](Mori.md) ha effettuato il rituale di evocazione degli Eroi delle [Armi Divine](Armi%20Divine.md).
 
+La stanza che contiene il cerchio magico utilizzato per l'evocazione è ottagonale, con 7 affreschi su ogni muro non occupato dalla porta. Gli affreschi rappresentano i [Draghi Leggendari](Draghi%20Leggendari.md).
+
+![Affreschi](images/tempio_affreschi.png)
+
 ### Funzionario del tempio
 
 Presiede l'evocazione degli Eroi per conto del clan [Mori](Mori.md).
