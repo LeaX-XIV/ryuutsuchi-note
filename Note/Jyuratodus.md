@@ -8,7 +8,7 @@ tags:
 
 [Wyvern](Wyvern.md) anfibio che predilige tane in prossimità di baie e golfi. Normalmente avvistato nelle coste paludose di [Sabakuro](Sabakuro.md).
 
-Un esemplare si risveglia nei pressi della Residenza. Sembra che tempo addietro abbia attaccato [Murasame](Murasame.md).
+Un esemplare si risveglia nei pressi della Residenza. Sembra che tempo addietro abbia attaccato [Murasame](Murasame.md). La [Mizutsune](Draghi%20Leggendari.md#mizutsune) afferma che stesse fuggendo.
 
 ## Informazioni di gioco
 

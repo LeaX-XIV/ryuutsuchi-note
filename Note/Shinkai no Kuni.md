@@ -17,6 +17,10 @@ Il sistema di governo affida il potere nel capo del clan, il Daimyo, e nella sua
 
 Inizialmente con il nome di Chuugoku, era in lotta con le tribù di [Oni](Oni.md) e [Goblin](Goblin.md) delle isole a sud. Trovano un accordo che unisce le loro terre in un'unica regione, dove i rappresentati di entrambe le popolazioni fanno parte del consiglio.
 
+## Murasame
+
+(Vedi [Murasame](Murasame.md)).
+
 ## Foresta
 
 Fitta foresta a ovest del lago Ryuji.

@@ -17,9 +17,10 @@ nav:
     - Sessione 10: Sessioni/010.md
     - Sessione 11: Sessioni/011.md
     - Sessione 12: Sessioni/012.md
+    - Sessione 13: Sessioni/013.md
   - Personaggi:
     - Alessandro: Izumi.md
-    - Giacomo: Mizuhara.md
+    - Giacomo: Riro.md
     - Veronica: Hecate.md
   - Luoghi:
     - Shinkai no Kuni:
@@ -30,23 +31,30 @@ nav:
   - NPC:
     - Clan Mori: Mori.md
     - George: George Mastro Tahl.md
+#    - Vahltrax: Vahltrax.md
   - Lore:
     - Armi Divine: Armi Divine.md
     - Draghi Leggendari: Draghi Leggendari.md
     - Wyvern:
       - Wyvern: Wyvern.md
-      - Jyuratodus: Jyuratodus.md
+      - Anjanath: Anjanath.md
       - Gran Jagras: Gran Jagras.md
+      - Jyuratodus: Jyuratodus.md
   - Oggetti:
     - Mappa: Mappa.md
   - Quest:
     - Coboldi Balordi: Quest/Coboldi Balordi.md
+    - Verso il Glavenus: Quest/Verso il Glavenus.md
 exclude_docs: |
-  images/*
-  !images/*.png
-  !images/*.jpg
-  !images/*.jpeg
-  !images/*.webp
+  images/**
+  !images/**.png
+  !images/**.jpg
+  !images/**.jpeg
+  !images/**.webp
+  !images/*/**.png
+  !images/*/**.jpg
+  !images/*/**.jpeg
+  !images/*/**.webp
 not_in_nav: |
   /Ryuutsuchi.md
 # theme: torillic

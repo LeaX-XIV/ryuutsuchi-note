@@ -5,11 +5,11 @@ aliases:
   - Mizuhara Riro
   - 水原リーロ
 ---
-# Mizuhara
+# Riro
 
 | Giocatore | Razza | Classe     |
 | --------- | ----- | ---------- |
-| Giacomo   | Oni   | Artefice 3 |
+| Giacomo   | Oni   | Artefice 4 |
 
 ![Mizuhara](images/mizuhara.png)
 

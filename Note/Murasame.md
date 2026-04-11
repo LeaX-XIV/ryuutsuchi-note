@@ -7,7 +7,7 @@ tags:
 Città capitale di [Shinkai no Kuni](Shinkai%20no%20Kuni.md), situata nella parte nord-orientale della regione. Si erge in un punto strategico, costretta tra una foresta a ovest del [Monte Torii](Monte%20Torii.md), e una formazione rocciosa. A nord è bagnata dal mare. L'unica via d'accesso si trova a sud della città.  
 Sembra che la maggior parte delle persone natie e residenti della città preferiscano esprimersi con gesti, senza proferir parola. La città risulta quindi molto tranquilla.
 
-Rasa al suolo dal [drago nero](Draghi%20Leggendari.md#catastrofe-imminente).
+Rasa al suolo dal [drago nero](Draghi%20Leggendari.md#fatalis).
 
 ## Palazzo del Daimyo
 
