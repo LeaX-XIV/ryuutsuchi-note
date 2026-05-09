@@ -21,6 +21,10 @@ Inizialmente con il nome di Chuugoku, era in lotta con le tribù di [Oni](Oni.md
 
 (Vedi [Murasame](Murasame.md)).
 
+## Toriyu
+
+(Vedi [Toriyu](Toriyu.md)).
+
 ## Foresta
 
 Fitta foresta a ovest del lago Ryuji.
