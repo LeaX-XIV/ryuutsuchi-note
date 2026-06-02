@@ -16,3 +16,6 @@ A [Toriyu](../Toriyu.md), nessun navigatore è disposto ad accompagnare il grupp
 Alcuni pirati hanno sottratto una nave della [Gilda dei Barcaioli dei Fanghi](../Toriyu.md#gilda-dei-barcaioli-dei-fanghi) di [Toriyu](../Toriyu.md), e si sono appostati in una delle insenatura a ovest della città per contrabbandare merce rubata da altre navi che percorrono quella rotta.  
 Non è noto se siano ancora in vita, o sono stati attaccati e uccisi dai [Jyuratodus](../Jyuratodus.md) che hanno tane in quelle zone.  
 [Motohirotohito](../Toriyu.md#motohirotohito) richiede che le scorribande di questi pirati vengano interrotte, e concederà la nave stessa come ricompensa per un lavoro ben svolto. La nave al momento è registrata come colata a picco, ma verrebbe riregistrata per vie traverse una volta recuperata.
+
+[Izumi](../Izumi.md) e [Riro](../Riro.md) affittano una regata biposto dalla gilda, e cominciano la ricerca di notte.  
+Vengono inseguiti dai pirati, che tentano di affondarli a cannonate. Tuttavia i colpi vanno a vuoto, e 2 due fermano l'arrembaggio costringendo i pirati alla resa. Potrebbero aver trovato l'equipaggio spericolato di cui hanno bisogno che li conduca al [Kanzaretsu](../Kanzaretsu.md).
