@@ -5,7 +5,7 @@ tags:
 # Draghi Leggendari
 
 Potenti creature che, secondo le leggende, hanno creato [Ryūtsuchi](Ryuutsuchi.md). Sono creature viventi che risiedono nel piano materiale, ma la loro potenza è tale che sono state venerate come divinità dalle tribù antiche. Poco si sa sul loro conto, in quanto si mostrano solo quando necessario.
-Le creature venerate come divinità sono 6; oltre a loro, si narra di un essere tanto più potente quanto spaventoso e feroce, che dove passa lascia solo devastazione e morte.
+Le creature venerate come divinità sono 6. Oltre a loro, si narra di un essere tanto più potente quanto spaventoso e feroce, che lascia solo devastazione e morte al suo passaggio.
 
 Pare che i sei siano nati in concomitanza con il [Cataclisma](Cataclisma.md) che ha messo fine alla corruzione creata da [Nani](Nani.md) e [Gnomi](Gnomi.md).
 
